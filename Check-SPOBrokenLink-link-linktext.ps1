@@ -60,7 +60,7 @@
 			
 		
 		Thanks to 
-		Alister Air for asking for something to do this in the StepTwo forum in 2021, and then Alise Croft and Michael Hutchens for inspiring it's improvement 
+		Alister Air for asking for something to do this in the StepTwo forum in 2021, and then Alise Croft and Michael Hutchens for inspiring it's improvement in 2024. 
 			
 		.SETUP 
 		To prepare this script to run you need to set the following variables		
