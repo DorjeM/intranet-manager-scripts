@@ -1,6 +1,7 @@
 <#
         .SYNOPSIS
-			This script finds broken links in SharePoint online Modern pages
+			This script finds broken links in SharePoint online Modern pages, it is simplistic. A better solution is Check-SPOBrokenLink-link-linktext.ps1
+
         .DESCRIPTION
 			This script was created to be run in an interactive powershell window.
 			
