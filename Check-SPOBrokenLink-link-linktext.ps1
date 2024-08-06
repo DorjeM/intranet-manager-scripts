@@ -3,6 +3,8 @@
 		This script tries to get the links in SharePoint online pages, and test each of those links to see if they are work. A 404 link checker in essence.
 
 		.DESCRIPTION
+  		This script requires the PNP powershell module to run.
+    
 		To run this script and get a list of all the links in all the pages in all the sites queried do the following:
 		Open a PowerShell window
 		Navigate to the folder you saved this PS1 file into e.g.   CD c:\temp
